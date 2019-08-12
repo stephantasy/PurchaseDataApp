@@ -1,2 +1,2 @@
 # PurchaseDataAppUI
-The frontend of the simple App made with Angular and Spring Boot
+The Frontend of the Simple App made with Angular and Spring Boot
