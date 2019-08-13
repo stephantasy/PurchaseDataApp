@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Quick Start ##
+
+0. Start the Backend API
+1. Open console
+2. Go into the project folder
+3. Hit `npm start` (this should compile successfully)
+4. Open a browser and enter `http://localhost:4200` (No permission needed)
+5. Click on `Display list` => enter credentials using Google Account
